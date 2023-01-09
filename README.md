@@ -1,3 +1,3 @@
 # BeanyRepo
 Tutorial Repository
-cake
+cakes
